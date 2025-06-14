@@ -31,12 +31,12 @@ function App() {
   const projects = [
     { 
       title: "Automated Marketing Management System", 
-      href: "#marketing-system",
+      href: "https://github.com/lakxxan/Automated-Marketing-Management-System",
       className: "font-space-grotesk font-bold text-white text-[53px] text-center leading-[48px]"
     },
     { 
       title: "Smart Canteen", 
-      href: "#smart-canteen",
+      href: "https://github.com/lakxxan/Smart-Canteen",
       className: "font-space-grotesk font-bold text-white text-[70px] text-center leading-[61px]"
     },
   ];
@@ -67,7 +67,7 @@ function App() {
           </NavigationMenu>
 
           <a
-            href="https://github.com"
+            href="https://github.com/lakxxan"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:scale-110 transition-transform"
@@ -228,7 +228,7 @@ function App() {
 
           <div className="flex gap-4">
             <a
-              href="https://facebook.com"
+              href="https://facebook.com/lakxxan"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:scale-110 transition-transform"
@@ -236,7 +236,7 @@ function App() {
               <FacebookIcon className="w-[74px] h-[74px] text-white hover:text-[#a6bbcc] transition-colors" />
             </a>
             <a
-              href="https://instagram.com"
+              href="https://instagram.com/lakxxan_"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:scale-110 transition-transform"
@@ -244,7 +244,7 @@ function App() {
               <InstagramIcon className="w-[63px] h-[63px] text-white hover:text-[#a6bbcc] transition-colors" />
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/lakxxan"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:scale-110 transition-transform"
